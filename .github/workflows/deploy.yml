@@ -31,4 +31,4 @@ jobs:
         with:
           ACCESS_TOKEN: ${{ secrets.FECSS }}
           BRANCH: gh-pages
-          FOLDER: .vitepress/dist
+          FOLDER: ./.vitepress/dist
