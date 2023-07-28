@@ -2,6 +2,3 @@
 .vitepress/cache
 
 node_modules
-
-*.yaml
-*.lock
