@@ -24,14 +24,15 @@ export default defineConfig({
     },
 
     nav: [
-      { text: 'Animation', link: '/animation/progress' },
+      { text: 'Animation', link: '/animation/countdown' },
       { text: 'Style', link: '/style/reset' },
       { text: 'Component', link: '/component/skeleton' },
     ],
 
     sidebar: {
       '/animation/': [
-        { text: '进度条', link: '/animation/progress' }
+        { text: '倒计时', link: '/animation/countdown' },
+        { text: '进度条', link: '/animation/progress' },
       ],
       '/style/': [
         { text: '重置', link: '/style/reset' }
