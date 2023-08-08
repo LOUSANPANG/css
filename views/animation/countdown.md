@@ -1,5 +1,3 @@
-
-
 <script setup>
   import Countdown1 from '../../components/animation/countdown1.vue'
   import Countdown2 from '../../components/animation/countdown2.vue'
