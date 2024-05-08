@@ -1,5 +1,13 @@
-### CSS
+### JS
+- utils
+- rules
+- ...
 
+### CSS
 - animation & styles
-- base components
 - css skills
+
+### Vue
+- components
+
+### ...
