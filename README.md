@@ -1,13 +1,20 @@
 ### JS
+- RegExp
 - utils
-- rules
 - ...
 
 ### CSS
-- animation & styles
+- animation
 - css skills
+- ...
 
 ### Vue
+- mixins
 - components
+- ...
 
-### ...
+### uni-app
+- deploy
+  - wx
+  - app
+- ...
