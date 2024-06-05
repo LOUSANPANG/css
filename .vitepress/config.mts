@@ -83,8 +83,7 @@ export default defineConfig({
           text: '上线部署',
           items: [
             { text: '微信小程序', link: '/uniapp/deploy/wx' },
-            { text: '安卓', link: '/uniapp/deploy/android' },
-            { text: 'IOS', link: '/uniapp/deploy/ios' },
+            { text: 'APP', link: '/uniapp/deploy/app' },
           ]
         }
       ],
