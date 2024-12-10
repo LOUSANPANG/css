@@ -6,11 +6,11 @@ hero:
 
   actions:
     - theme: brand
-      text: JavaScript
-      link: /js
-    - theme: alt
       text: CSS
       link: /css
+    - theme: alt
+      text: JavaScript
+      link: /js
     - theme: alt
       text: Vue
       link: /vue
@@ -19,10 +19,10 @@ hero:
       link: /uniapp
 
 features:
-  - title: JavaScript
-    details: RegExp、Utils
   - title: CSS
     details: Animation、Pseudo-elements
+  - title: JavaScript
+    details: RegExp、Utils
   - title: Vue
     details: Components、Directives、Plugins
   - title: uni-app
